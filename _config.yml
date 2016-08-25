@@ -1,3 +1,4 @@
+layout_spectrum: 0.47865504398941994
 typography_spectrum: 0.3333842819556594
 color:
   brandStrength: 0.8653323210310191
@@ -5,12 +6,9 @@ color:
   saturation: 0.06624120357446373
   rhythmicContrast: 0.5310286122839898
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.47865504398941994
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: The Bond
-title: The Bond
-description: Horses and Humans
